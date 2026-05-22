@@ -170,9 +170,9 @@ Los resultados obtenidos dependen de la calidad y características del dataset u
 
 # Integrantes
 
-* Hernán Velasco
-* Kenny
-* Yule
+* Jorge Hernán Velasco Gómez
+* Kenny Felipe Mape Silva
+* Yuleidy Cruz Valbuena
 
 ---
 
